@@ -20,4 +20,11 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
     <string name="loginScreenTitle">UMD Computer Science\nDepartment</string>
+
+    <string name="genedProgressLabel">Gen Eds Progress</string>
+    <string name="csMajorProgressLabel">Major Progress</string>
+    <string name="csMajorULProgressLabel">Upper Level Concentration Progress</string>
+    <string name="degreeTrackerEditButtonLabel">Edit Mode</string>
+    <string name="degreeTrackerProfileButtonLabel">Profile: Default</string>
+    <string name="cumulativeCredits">100/120 Cumulative Credits</string>
 </resources>

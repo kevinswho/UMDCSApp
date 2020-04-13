@@ -9,14 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivityStudent"
-            android:label=""
-            >
-        </activity>
+        <activity android:name=".DegreeTrackerActivity"></activity>
+        <activity
+            android:name=".MainActivityStudent"
+            android:label=""></activity>
         <activity
             android:name=".ui.login.LoginActivity"
-            android:label=""
-            >
+            android:label="">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
